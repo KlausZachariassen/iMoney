@@ -1,0 +1,14 @@
+C:\Users\Klaus\Source\Repos\iMoney\iMoneyConsole\bin\Debug\iMoneyConsole.exe.config
+C:\Users\Klaus\Source\Repos\iMoney\iMoneyConsole\bin\Debug\iMoneyConsole.exe
+C:\Users\Klaus\Source\Repos\iMoney\iMoneyConsole\bin\Debug\iMoneyConsole.pdb
+C:\Users\Klaus\Source\Repos\iMoney\iMoneyConsole\bin\Debug\EntityFramework.dll
+C:\Users\Klaus\Source\Repos\iMoney\iMoneyConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klaus\Source\Repos\iMoney\iMoneyConsole\bin\Debug\IMoney.DataModel.dll
+C:\Users\Klaus\Source\Repos\iMoney\iMoneyConsole\bin\Debug\iMoney.Model.dll
+C:\Users\Klaus\Source\Repos\iMoney\iMoneyConsole\bin\Debug\IMoney.DataModel.pdb
+C:\Users\Klaus\Source\Repos\iMoney\iMoneyConsole\bin\Debug\iMoney.Model.pdb
+C:\Users\Klaus\Source\Repos\iMoney\iMoneyConsole\bin\Debug\EntityFramework.xml
+C:\Users\Klaus\Source\Repos\iMoney\iMoneyConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klaus\Source\Repos\iMoney\iMoneyConsole\obj\Debug\iMoneyConsole.csprojResolveAssemblyReference.cache
+C:\Users\Klaus\Source\Repos\iMoney\iMoneyConsole\obj\Debug\iMoneyConsole.exe
+C:\Users\Klaus\Source\Repos\iMoney\iMoneyConsole\obj\Debug\iMoneyConsole.pdb
