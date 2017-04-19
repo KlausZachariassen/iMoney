@@ -1,0 +1,14 @@
+C:\Users\Klaus\Source\Repos\iMoney\IMoney.DataModel\bin\Debug\IMoney.DataModel.dll.config
+C:\Users\Klaus\Source\Repos\iMoney\IMoney.DataModel\bin\Debug\IMoney.DataModel.dll
+C:\Users\Klaus\Source\Repos\iMoney\IMoney.DataModel\bin\Debug\IMoney.DataModel.pdb
+C:\Users\Klaus\Source\Repos\iMoney\IMoney.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\Klaus\Source\Repos\iMoney\IMoney.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klaus\Source\Repos\iMoney\IMoney.DataModel\bin\Debug\iMoney.Model.dll
+C:\Users\Klaus\Source\Repos\iMoney\IMoney.DataModel\bin\Debug\iMoney.Model.pdb
+C:\Users\Klaus\Source\Repos\iMoney\IMoney.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Klaus\Source\Repos\iMoney\IMoney.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klaus\Source\Repos\iMoney\IMoney.DataModel\obj\Debug\IMoney.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\Klaus\Source\Repos\iMoney\IMoney.DataModel\obj\Debug\IMoney.DataModel.dll
+C:\Users\Klaus\Source\Repos\iMoney\IMoney.DataModel\obj\Debug\IMoney.DataModel.pdb
+C:\Users\Klaus\Source\Repos\iMoney\IMoney.DataModel\obj\Debug\IMoney.DataModel.Migrations.Initial.resources
+C:\Users\Klaus\Source\Repos\iMoney\IMoney.DataModel\obj\Debug\IMoney.DataModel.csproj.GenerateResource.Cache

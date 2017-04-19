@@ -1,0 +1,5 @@
+C:\Users\Klaus\Source\Repos\iMoney\iMoney.Model\bin\Debug\iMoney.Model.dll
+C:\Users\Klaus\Source\Repos\iMoney\iMoney.Model\bin\Debug\iMoney.Model.pdb
+C:\Users\Klaus\Source\Repos\iMoney\iMoney.Model\obj\Debug\iMoney.Model.csprojResolveAssemblyReference.cache
+C:\Users\Klaus\Source\Repos\iMoney\iMoney.Model\obj\Debug\iMoney.Model.dll
+C:\Users\Klaus\Source\Repos\iMoney\iMoney.Model\obj\Debug\iMoney.Model.pdb
